@@ -2,3 +2,9 @@
 1. Download the repository
 2. run node checkRequestMeeting.js
 3. Star the repository because I will be updating it regularly and to support me <3
+
+
+#Note: 
+Enable cookies so you do not need to repeatedly log in :)
+
+## All the best!

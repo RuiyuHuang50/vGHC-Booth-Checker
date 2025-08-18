@@ -194,7 +194,15 @@ const booths = [
   {
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713189550799001dCWs",
     "name": "Xero"
-  }
+  },
+    {
+    "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188690247001Pw4B",
+    "name": "Wells Fargo"
+  },
+    {
+    "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188687180001PRnl",
+    "name": "Capital One"
+  },
 ];
 
 (async () => {
@@ -211,7 +219,7 @@ const booths = [
   const results = [];
   for (const booth of booths) {
     console.log(`Checking: ${booth.name} -> ${booth.url}`);
-    await page.goto(booth.url, { waitUntil: "networkidle2" }).catch(() => {
+    await page.goto(booth.url, { waitUntil: "networkidle0" }).catch(() => {
         console.log(`⚠️ networkidle2 failed for ${booth.url}, falling back to domcontentloaded`);
         return page.goto(booth.url, { waitUntil: "domcontentloaded" });
     });
@@ -238,7 +246,7 @@ const booths = [
       classes: btn.className
     };
 });
-
+    
     results.push({ booth: booth.name, url: booth.url, ...result });
     console.log(result);
     

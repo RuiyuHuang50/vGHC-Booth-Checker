@@ -2,12 +2,20 @@
   {
     "booth": "Crown Equipment Corporation",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1748405927054001couI",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Wayfair",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713189550720001dUQC",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Adyen",
@@ -21,12 +29,20 @@
   {
     "booth": "Amazon",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1720020857770001nrcJ",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Apollo",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1718199651644001Sh56",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Apple",
@@ -40,32 +56,56 @@
   {
     "booth": "Arete",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1722441485393001ZFzy",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Audible",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1714576726046001Gbye",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Bank Of America",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1712944582844001LZAP",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Capital One",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188687180001PRnl",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "CBRE",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1754886602618001ip4b",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Chewy",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713189549333001dJUV",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Chubb",
@@ -79,32 +119,56 @@
   {
     "booth": "Citadel",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188687495001PD35",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Cloudflare",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713361999237001RCeP",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Deere & Company (John Deere)",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713912142591001YeKA",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Deloitte Services LP",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1720020857878001njZu",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "DTCC",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1716336263629001WWCH",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "EY",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188687826001P5dy",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Five Rings",
@@ -127,12 +191,20 @@
   {
     "booth": "Google",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188687975001PkXb",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "InterSystems",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713189549743001dLGN",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Intuit",
@@ -146,7 +218,11 @@
   {
     "booth": "Jane Street",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188688221001PBYL",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "John Hancock",
@@ -160,7 +236,11 @@
   {
     "booth": "Lumen",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1754493196793001TMGt",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "McDonalds",
@@ -174,12 +254,20 @@
   {
     "booth": "Meta",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1716993408943001dxfK",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Morgan Stanley",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713912142724001YIax",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Navy Federal Credit Union",
@@ -243,7 +331,11 @@
   {
     "booth": "Snapchat",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1721836626068001VVzc",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Sony",
@@ -257,17 +349,29 @@
   {
     "booth": "D.E Shaw",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1716993409019001dWrK",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "RAI Institute",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1750881473389001gMnU",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Vanguard",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188689461001PWIM",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Two Sigma",
@@ -304,11 +408,37 @@
   {
     "booth": "Wex",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1714576726611001G3IM",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   },
   {
     "booth": "Xero",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713189550799001dCWs",
-    "hasRequestMeeting": false
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
+  },
+  {
+    "booth": "Wells Fargo",
+    "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188690247001Pw4B",
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
+  },
+  {
+    "booth": "Capital One",
+    "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188687180001PRnl",
+    "hasRequestMeeting": true,
+    "enabled": false,
+    "buttonText": "Request Meeting",
+    "aria": "",
+    "classes": "mdBtnR mdBtnR-primary"
   }
 ]
