@@ -199,10 +199,6 @@ const booths = [
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188690247001Pw4B",
     "name": "Wells Fargo"
   },
-    {
-    "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188687180001PRnl",
-    "name": "Capital One"
-  },
 ];
 
 (async () => {
