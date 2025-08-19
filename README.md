@@ -5,8 +5,10 @@
 
 <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/300f94a4-7ebf-4808-9a1b-8ae6f46904b1" />
 
-The enabled word shows if the request meeting button for that company is open for booking or not
+The enabled word shows if the request meeting button for that company is open for booking or not.
+
 -> Open: true
+
 -> Closed: false
 
 #Note: 
