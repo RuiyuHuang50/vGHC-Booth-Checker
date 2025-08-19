@@ -84,7 +84,7 @@
     "booth": "Capital One",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188687180001PRnl",
     "hasRequestMeeting": true,
-    "enabled": true,
+    "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
     "classes": "mdBtnR mdBtnR-primary"
@@ -246,7 +246,7 @@
     "booth": "McDonalds",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188688480001Pktf",
     "hasRequestMeeting": true,
-    "enabled": false,
+    "enabled": true,
     "buttonText": "Request Meeting",
     "aria": "",
     "classes": "mdBtnR mdBtnR-primary"
@@ -368,7 +368,7 @@
     "booth": "Vanguard",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188689461001PWIM",
     "hasRequestMeeting": true,
-    "enabled": false,
+    "enabled": true,
     "buttonText": "Request Meeting",
     "aria": "",
     "classes": "mdBtnR mdBtnR-primary"
@@ -436,7 +436,7 @@
     "booth": "Capital One",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188687180001PRnl",
     "hasRequestMeeting": true,
-    "enabled": true,
+    "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
     "classes": "mdBtnR mdBtnR-primary"
