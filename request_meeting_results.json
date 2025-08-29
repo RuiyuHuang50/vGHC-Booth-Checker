@@ -6,7 +6,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Wayfair",
@@ -15,7 +18,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Adyen",
@@ -24,7 +30,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Amazon",
@@ -33,7 +42,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Apollo",
@@ -42,7 +54,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Apple",
@@ -51,7 +66,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Arete",
@@ -60,16 +78,15 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Audible",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1714576726046001Gbye",
-    "hasRequestMeeting": true,
-    "enabled": false,
-    "buttonText": "Request Meeting",
-    "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "hasRequestMeeting": false
   },
   {
     "booth": "Bank Of America",
@@ -78,16 +95,15 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Capital One",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188687180001PRnl",
-    "hasRequestMeeting": true,
-    "enabled": false,
-    "buttonText": "Request Meeting",
-    "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "hasRequestMeeting": false
   },
   {
     "booth": "CBRE",
@@ -96,7 +112,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Chewy",
@@ -105,7 +124,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Chubb",
@@ -114,7 +136,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Citadel",
@@ -123,7 +148,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Cloudflare",
@@ -132,7 +160,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Deere & Company (John Deere)",
@@ -141,7 +172,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Deloitte Services LP",
@@ -150,7 +184,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "DTCC",
@@ -159,7 +196,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "EY",
@@ -168,7 +208,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Five Rings",
@@ -177,16 +220,15 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Goldman Sachs",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713361999165001RGIP",
-    "hasRequestMeeting": true,
-    "enabled": false,
-    "buttonText": "Request Meeting",
-    "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "hasRequestMeeting": false
   },
   {
     "booth": "Google",
@@ -195,7 +237,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "InterSystems",
@@ -204,7 +249,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Intuit",
@@ -213,7 +261,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Jane Street",
@@ -222,7 +273,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "John Hancock",
@@ -231,7 +285,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Lumen",
@@ -240,7 +297,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "McDonalds",
@@ -249,25 +309,20 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Meta",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1716993408943001dxfK",
-    "hasRequestMeeting": true,
-    "enabled": false,
-    "buttonText": "Request Meeting",
-    "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "hasRequestMeeting": false
   },
   {
     "booth": "Morgan Stanley",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713912142724001YIax",
-    "hasRequestMeeting": true,
-    "enabled": false,
-    "buttonText": "Request Meeting",
-    "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "hasRequestMeeting": false
   },
   {
     "booth": "Navy Federal Credit Union",
@@ -276,16 +331,15 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Next Insurance",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1722441485475001ZHyz",
-    "hasRequestMeeting": true,
-    "enabled": false,
-    "buttonText": "Request Meeting",
-    "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "hasRequestMeeting": false
   },
   {
     "booth": "PayPal",
@@ -294,16 +348,15 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Prudential",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1715175150917001JdxX",
-    "hasRequestMeeting": true,
-    "enabled": false,
-    "buttonText": "Request Meeting",
-    "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "hasRequestMeeting": false
   },
   {
     "booth": "RedHat",
@@ -312,7 +365,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Rivian",
@@ -326,7 +382,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Snapchat",
@@ -335,7 +394,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Sony",
@@ -344,7 +406,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "D.E Shaw",
@@ -353,7 +418,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "RAI Institute",
@@ -362,16 +430,22 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Vanguard",
     "url": "https://gracehoppercelebration.com/flow/anitab/vcf25/exhcatalog/page/ghc25sponsorcatalog/exhibitor/1713188689461001PWIM",
     "hasRequestMeeting": true,
-    "enabled": true,
+    "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Two Sigma",
@@ -380,7 +454,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "USAA",
@@ -389,7 +466,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Voya Financial",
@@ -398,7 +478,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Walleye Capital",
@@ -412,7 +495,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Xero",
@@ -421,7 +507,10 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   },
   {
     "booth": "Wells Fargo",
@@ -430,6 +519,9 @@
     "enabled": false,
     "buttonText": "Request Meeting",
     "aria": "",
-    "classes": "mdBtnR mdBtnR-primary"
+    "classes": "mdBtnR mdBtnR-primary",
+    "visible": true,
+    "blocked": false,
+    "clickable": true
   }
 ]

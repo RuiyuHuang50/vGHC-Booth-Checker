@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Browser user data (contains login sessions)
+user_data/
+
+# Results file (may contain personal data)
+request_meeting_results.json
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
