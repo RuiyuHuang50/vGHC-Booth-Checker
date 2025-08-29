@@ -71,3 +71,14 @@ Results are also saved to `request_meeting_results.json` for detailed review.
 ---
 
 Built for the GHC community. Good luck with your booth meetings!
+
+## Credits
+
+This project is based on the original GHC booth checker by [aaditree](https://github.com/aaditree/vGHC-Slot-Checker). 
+
+**Enhancements in this version:**
+- Automatic login functionality
+- Headless browser operation (no popup windows)
+- Desktop notifications for available slots
+- Improved error handling and stability
+- Professional documentation
