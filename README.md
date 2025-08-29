@@ -22,7 +22,7 @@ Getting meetings with top tech companies at GHC can be competitive. This tool co
 
 2. **Download this project** and navigate to the folder:
    ```bash
-   cd vGHC-Slot-Checker
+   cd vGHC-Booth-Checker
    ```
 
 3. **Install dependencies**:
