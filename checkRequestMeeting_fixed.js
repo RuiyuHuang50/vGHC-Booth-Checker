@@ -4,8 +4,8 @@ const notifier = require("node-notifier");
 
 // GHC Login Configuration
 const GHC_LOGIN = {
-  email: "your-email@example.com", // Replace with your GHC email
-  password: "your-password", // Replace with your GHC password
+  email: "rhuang50@asu.edu", // Replace with your GHC email
+  password: "Aa.@53528820", // Replace with your GHC password
 };
 
 const booths = [
@@ -225,8 +225,10 @@ async function checkBooths() {
   try {
     // Look for login button or email field using valid selectors
     const emailField = await page.$('input[type="email"], input[name="email"]');
-    const loginButton = await page.$('button[type="submit"], input[type="submit"]');
-    
+    const loginButton = await page.$(
+      'button[type="submit"], input[type="submit"]'
+    );
+
     if (emailField || loginButton) {
       console.log("🔐 Login required, attempting automatic login...");
 
@@ -237,7 +239,9 @@ async function checkBooths() {
       }
 
       // Try to find and fill password field
-      const passwordField = await page.$('input[type="password"], input[name="password"]');
+      const passwordField = await page.$(
+        'input[type="password"], input[name="password"]'
+      );
       if (passwordField) {
         await passwordField.type(GHC_LOGIN.password);
         console.log("✅ Password entered");
@@ -365,11 +369,38 @@ async function checkBooths() {
 }
 
 async function loopCheck() {
+  let cycleCount = 1;
+  
   while (true) {
+    const now = new Date();
+    const timestamp = now.toLocaleString();
+    
+    console.log("\n" + "=".repeat(60));
+    console.log(`🔄 CYCLE #${cycleCount} STARTING`);
+    console.log(`📅 Time: ${timestamp}`);
+    console.log("=".repeat(60));
+    
     await checkBooths();
-    console.log("Waiting 15 minute before next check...");
+    
+    console.log("\n" + "-".repeat(60));
+    console.log(`✅ Cycle #${cycleCount} completed at ${new Date().toLocaleString()}`);
+    console.log(`⏰ Next check will start in 15 minutes (Cycle #${cycleCount + 1})`);
+    console.log(`🛑 Press Ctrl+C to stop monitoring`);
+    console.log("-".repeat(60));
+    
+    cycleCount++;
     await new Promise((resolve) => setTimeout(resolve, 15 * 60 * 1000));
   }
 }
+
+// Start the monitoring with a welcome message
+console.log("\n" + "=".repeat(60));
+console.log("== GHC BOOTH MEETING MONITOR STARTED ==");
+console.log("=".repeat(60));
+console.log(`== Monitoring ${booths.length} sponsor booths`);
+console.log("== Checking every 15 minutes for available meeting slots");
+console.log("== You'll get desktop notifications when booths open up");
+console.log("== Press Ctrl+C anytime to stop");
+console.log("=".repeat(60) + "\n");
 
 loopCheck();
