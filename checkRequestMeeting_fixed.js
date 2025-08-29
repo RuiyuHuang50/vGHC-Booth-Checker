@@ -4,8 +4,8 @@ const notifier = require("node-notifier");
 
 // GHC Login Configuration
 const GHC_LOGIN = {
-  email: "rhuang50@asu.edu", // Replace with your GHC email
-  password: "Aa.@53528820", // Replace with your GHC password
+  email: "your-email@example.com", // Replace with your GHC email
+  password: "your-password", // Replace with your GHC password
 };
 
 const booths = [
