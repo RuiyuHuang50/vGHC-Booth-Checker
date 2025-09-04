@@ -1,6 +1,13 @@
 # Grace Hopper Celebration Booth Meeting Checker
 
 A Node.js tool that automatically monitors sponsor booth availability at Grace Hopper Celebration 2025 and alerts you when meeting request slots open up.
+<img width="1188" height="527" alt="image" src="https://github.com/user-attachments/assets/b0c2f2c3-36b9-42cc-8572-75f5720da3a4" />
+
+And on the desktop it would show:
+
+<img width="352" height="113" alt="image" src="https://github.com/user-attachments/assets/6bb5c390-9804-43f5-9276-71ad2895d0d6" />
+
+
 
 ## Why This Tool?
 
